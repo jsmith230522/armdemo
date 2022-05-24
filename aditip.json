@@ -9,7 +9,7 @@
       "value": "Password@123"
     },
     "dnsLabelPrefix": {
-      "value": "simple-vm-3e6016c578x"
+      "value": "simple-vm-3e6016c578x1"
     },
     "publicIpName": {
       "value": "simple-vm-ip"
@@ -27,7 +27,7 @@
       "value": "Standard_D2_v2"
     },
     "location": {
-      "value": "uksouth"
+      "value": "eastus"
     },
     "vmName": {
       "value": "simple-vm"
